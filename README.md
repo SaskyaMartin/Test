@@ -2,8 +2,7 @@
 
 ## Ein Testverzeichnis
   ### Hello World
-  punkt
-  a
-  b
-  c
-  
+  punkt:
+  -a
+  -b
+  -c
